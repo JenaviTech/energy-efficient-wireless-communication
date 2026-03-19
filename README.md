@@ -3,6 +3,13 @@
 **Description:**  
 This project explores energy-efficient techniques in wireless radio communication using MATLAB Simulink. It focuses on optimizing power consumption while maintaining signal quality and system performance, with applications in sustainable and low-cost communication systems.
 
+## System Overview
+
+This project models an energy-efficient wireless communication system using MATLAB Simulink. The design evaluates signal transmission through modulation, channel effects, and demodulation, while incorporating energy analysis to optimize power consumption without degrading performance.
+
+![Energy Efficient Wireless Communication](energy-efficient-wireless-communication.png)
+
+*Simulink-style block diagram of the energy-efficient wireless communication system showing signal flow through modulation, channel, demodulation, and energy analysis.*
 **Technologies & Tools:**  
 - MATLAB  
 - Simulink  
